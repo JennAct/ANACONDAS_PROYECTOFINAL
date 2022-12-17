@@ -11,7 +11,7 @@ Solución ls proyecto final de Manejo de Datos donde se usan bases de datos
 
 ### Pasos a seguir para correr el programa
 
--Ya que está en otra máquina se deberá descargar el chromedriver y modificar eso en la parte del código
--Correrlo desde arriba y darle tiempo al programa para que no se trabe o marque errores
--Esperar a que cargue todo bien
--Al final se muestran las gráficas de precios y de mensualidades
+- Ya que está en otra máquina se deberá descargar el chromedriver y modificar eso en la parte del código
+- Correrlo desde arriba y darle tiempo al programa para que no se trabe o marque errores
+- Esperar a que cargue todo bien
+- Al final se muestran las gráficas de precios y de mensualidades
